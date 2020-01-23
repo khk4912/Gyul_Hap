@@ -1,4 +1,4 @@
-bot_token = 'NjY5ODUyMTAxMTkwMzUyOTA2.Xil2Zg.DeMioGhog0v1BaQPtfEi85vGtTc'
+bot_token = ''
 initial_extensions =[
     "commands.gyul"
 ]
